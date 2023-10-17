@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72c4c9ae-1e66-4d93-975a-77a88039a901" name="Changes" comment="git" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rentrombo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="88ee2d16-2f3f-4f44-918f-e10563dc93b2" />
+        <option name="url" value="https://github.com/rentrombo/Madame_Muertre_Manor" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WVVH6SVSla8mvlsyw5LVFZnG5y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/14076/PycharmProjects/MadameMuertre&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c4c9ae-1e66-4d93-975a-77a88039a901" name="Changes" comment="" />
+      <created>1696817643594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696817643594</updated>
+      <workItem from="1696817648772" duration="5386000" />
+      <workItem from="1697320023278" duration="36000" />
+      <workItem from="1697320170122" duration="13138000" />
+      <workItem from="1697405154068" duration="3578000" />
+      <workItem from="1697562644767" duration="238000" />
+    </task>
+    <task id="LOCAL-00001" summary="prelim">
+      <option name="closed" value="true" />
+      <created>1697320470652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697320470652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dict done">
+      <option name="closed" value="true" />
+      <created>1697321479333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697321479333</updated>
+    </task>
+    <task id="LOCAL-00003" summary="judge">
+      <option name="closed" value="true" />
+      <created>1697325999141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697325999141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rooms done">
+      <option name="closed" value="true" />
+      <created>1697327068076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697327068076</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fin?">
+      <option name="closed" value="true" />
+      <created>1697339727416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697339727416</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fin?">
+      <option name="closed" value="true" />
+      <created>1697406228864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697406228864</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tweak">
+      <option name="closed" value="true" />
+      <created>1697406893710</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697406893710</updated>
+    </task>
+    <task id="LOCAL-00008" summary="editing writing">
+      <option name="closed" value="true" />
+      <created>1697407609773</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697407609773</updated>
+    </task>
+    <task id="LOCAL-00009" summary="len(inventory) condition instead of int">
+      <option name="closed" value="true" />
+      <created>1697408262328</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697408262328</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final; inventory/hint">
+      <option name="closed" value="true" />
+      <created>1697408737620</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697408737620</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final; inventory/hint">
+      <option name="closed" value="true" />
+      <created>1697562682933</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697562682933</updated>
+    </task>
+    <task id="LOCAL-00012" summary="final; inventory/hint">
+      <option name="closed" value="true" />
+      <created>1697562725829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697562725829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prelim" />
+    <MESSAGE value="dict done" />
+    <MESSAGE value="judge" />
+    <MESSAGE value="rooms done" />
+    <MESSAGE value="fin?" />
+    <MESSAGE value="tweak" />
+    <MESSAGE value="editing writing" />
+    <MESSAGE value="len(inventory) condition instead of int" />
+    <MESSAGE value="final; inventory/hint" />
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TextBasedGame_py$TextBasedGame.coverage" NAME="TextBasedGame Coverage Results" MODIFIED="1697408667321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMM_main_py$MMM_main.coverage" NAME="MMM_main Coverage Results" MODIFIED="1697339295879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MadameMuertre$ModuleSixMilestone.coverage" NAME="ModuleSixMilestone Coverage Results" MODIFIED="1696825094641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

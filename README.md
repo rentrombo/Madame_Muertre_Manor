@@ -13,11 +13,11 @@ IF RUNNING OUT OF CL on WINDOWS:
 2. Open the Command Prompt.
 3. Navigate to the directory where your .py file is located using the cd command. For example:
 ```
-cd C:\path\to\your\directory\Madame_Muertre
+cd C:\path\to\your\directory\Madame_Muertre_Manor
 ```
 Run the Python file:
 ```
-python MMM_main.py
+python MadameMuertreManor.py
 ```
 Ensure that Python is installed and added to your system's PATH. You can check if Python is installed and added to PATH by running python --version or python3 --version in the Command Prompt.
 
@@ -26,15 +26,15 @@ IF RUNNING OUT OF CL on MACOS:
 2. Open the Terminal.
 3. Navigate to the directory where your .py file is located using the cd command. For example:
 ```
-cd /path/to/your/directory/Madame_Muertre
+cd /path/to/your/directory/Madame_Muertre_Manor
 ```
 Run the Python file:
 ```
-python3 MMM_main.py
+python3 MadameMuertreManor.py
 ```
 If your .py file is not in the current directory, you can provide the full path to the file:
 ```
-python3 /path/to/your/directory/filename.py
+python3 /path/to/your/directory/MadameMuertreManor.py
 ```
 Make sure Python is installed. You can verify if Python is installed by running python --version or python3 --version in the Terminal. If Python is not installed, you can install it using a package manager like Homebrew:
 ```
